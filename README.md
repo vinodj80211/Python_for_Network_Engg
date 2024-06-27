@@ -1,1 +1,1 @@
-# This is my first chapter of learning python
+# This is the repository of number of chapters to learn python.
